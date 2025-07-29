@@ -94,9 +94,9 @@ Potências calculadas para λ mínimo: [80.0, 70.0, 50.0]
 ---
 
 ## 👤 Autores
-**Daniel dos Santos Amador**
-**Pedro Nogueira Feijó**
-**Rafael Nunes de Souza Lourenço Vieira**
+- **Daniel dos Santos Amador**
+- **Pedro Nogueira Feijó**
+- **Rafael Nunes de Souza Lourenço Vieira**
 
 📌 *Engenharia Elétrica* | *Computação Aplicada*  
 🔗 [GitHub](https://github.com/Daniel-sntsa)  
